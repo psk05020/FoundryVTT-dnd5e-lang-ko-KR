@@ -1,6 +1,6 @@
 {
 	"id": "dnd5e-ko",
-	"title": "Translation: Korean [D&D 5e](SRD)",
+	"title": "DND Korean SEPI",
 	"description": "D&D 5e 시스템의 한국어화 모듈입니다.",
 	"version":  "#{VERSION}#",
 	"library": "false",
