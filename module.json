@@ -46,6 +46,6 @@
 	"license": "LICENSE",
   	"readme": "README.md",
 	"url": "https://github.com/psk05020/Sepi_DnD_2024_KR",
-	"manifest": "https://raw.githubusercontent.com/psk05020/Sepi_DnD_2024_KR/master/module.json",
+	"manifest": "https://raw.githubusercontent.com/psk05020/Sepi_DnD_2024_KR/refs/heads/master/module.json",
 	"download": "https://github.com/psk05020/Sepi_DnD_2024_KR/archive/refs/heads/master.zip"
 }
