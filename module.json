@@ -22,7 +22,7 @@
 	"relationships": {
 		"systems": [
 			{
-				"id": "Sepi_DnD_2024_KR",
+				"id": "dnd5e",
         		"type": "system",
 				"compatibility": {
       				"verified": "4.0.1"
