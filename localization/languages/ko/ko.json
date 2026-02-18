@@ -889,7 +889,6 @@
     "Message": "{name}이(가) {award}을(를) 받았습니다.",
     "NoDestinations": "보상을 보낼 대상이 없습니다.",
     "NoPrimaryParty": "지정된 기본 파티가 없습니다. 대신 플레이어에게 할당된 캐릭터들을 표시합니다.",
-    "NoPrimaryParty": "지정된 기본 파티가 없습니다. 대신 플레이어에게 할당된 캐릭터들을 표시합니다.",
     "NotGMError": "/award 명령은 DM만 사용할 수 있습니다.",
     "UnrecognizedWarning": "{commands}를 분석할 수 없습니다. /award 명령은 '/award 10gp 50xp'와 같이 경험치 및 통화 값과 함께 사용해야 합니다."
   },
