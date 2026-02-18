@@ -1924,8 +1924,8 @@
   "DND5E.NoSpellLevels": "이 캐릭터는 주문 시전 레벨이 없지만, 수동으로 주문을 추가할 수 있습니다.",
   "DND5E.FLAGS": {
     "EnhancedDualWielding": {
-      "Name": "강화된 두 무기 전투",
-      "Hint": "양손 속성이 없는 근접 무기를 사용할 때 보너스 행동으로 추가 공격을 허용합니다."
+      "Name": "강화된 쌍수 전투",
+      "Hint": "양손 속성이 없는 근거리 무기를 사용할 때 보조 행동으로 추가 공격을 허용합니다."
     }
   },
   "DND5E.FlagsInstructions": "D&D 5판 시스템의 작동 방식을 조정하는 캐릭터의 특성 및 특징들을 설정합니다.",
@@ -3339,9 +3339,9 @@
   "DND5E.WeaponMartialR": "군용 원거리 무기",
   "DND5E.WeaponNatural": "자연 무기",
   "DND5E.WeaponSiege": "공성 무기",
-  "DND5E.WeaponSimpleM": "단순 근접 무기",
-  "DND5E.WeaponSimpleProficiency": "단순 무기",
-  "DND5E.WeaponSimpleR": "단순 원거리 무기",
+  "DND5E.WeaponSimpleM": "일반 근거리 무기",
+  "DND5E.WeaponSimpleProficiency": "일반 무기",
+  "DND5E.WeaponSimpleR": "일반 원거리 무기",
   "DND5E.Weight": "무게",
   "DND5E.WhisperedTo": "귓속말 대상:",
   "DND5E.Wiki": "위키",
@@ -3383,7 +3383,7 @@
   },
   "EFFECT.DND5E": {
     "StatusBleeding": "출혈",
-    "StatusBloodied": "피투성이",
+    "StatusBloodied": "부상",
     "StatusBurning": "화상",
     "StatusBurrowing": "굴착",
     "StatusConcentrating": "집중",
@@ -3556,8 +3556,8 @@
   "SETTINGS.5eGridAlignedSquareTemplatesN": "그리드에 정렬된 정사각형 템플릿",
   "SETTINGS.DND5E": {
     "BLOODIED": {
-      "Name": "피투성이 상태",
-      "Hint": "피투성이 상태 아이콘의 표시 여부 및 자동 추적 설정을 구성합니다.",
+      "Name": "부상 상태",
+      "Hint": "부상 상태 아이콘의 표시 여부 및 자동 추적 설정을 구성합니다.",
       "All": "아군과 적 모두에게 표시",
       "Player": "아군에게만 표시",
       "None": "표시 안 함"
